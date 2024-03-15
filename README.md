@@ -35,7 +35,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="40" width="40">
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="React" height="40" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JAVA SCRIPT" height="40" width="40">
-  
+  <img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" alt="JAVA SCRIPT" height="40" width="40">
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasp-125&show_icons=true&locale=en&layout=compact" alt="Top lenguajes" />
 </p>
