@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sebasp-125&label=Vistas+al+perfil&color=0e75b6&style=flat-square" alt="Vistas al perfil de sebasp-125" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-tropico">
-    <img src="https://github-profile-tropico.vercel.app/?username=sebasp-125" alt="GitHub Tropico" />
-  </a>
-</p>
-
 - 🧑‍🎓 Actualmente soy estudiante en [IUMAFIS](https://iumafis.edu.co/)
 
 - ✍️ Encuéntrame en Slack: [Slack](https://slack.com/)
