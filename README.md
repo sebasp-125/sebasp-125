@@ -9,7 +9,7 @@
 
 - ✍️ Encuéntrame en Slack: [Slack](https://slack.com/)
 
-- 💻 Me encuentro en constante aprendizaje y fortaleciendo mis habilidades como desarrollador frontend en [Agile Innova](https://www.agileinnova.org/), Abierto a otros campos de la programación
+- 💻 Me encuentro en constante aprendizaje y fortaleciendo mis habilidades como desarrollador frontend en [Agile Innova](https://www.agileinnova.org/), Estoy abierto a otros campos de la programación
 
 - 📲 Contáctame en [Facebook](https://www.facebook.com/SebasTryan?mibextid=ZbWKwL)
 
