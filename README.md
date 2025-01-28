@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="40" width="40" />
-  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="React" height="40" width="40" />
+  <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Tailwind_CSS_Logo.svg" alt="TailwindCSS" height="40" width="40" />
