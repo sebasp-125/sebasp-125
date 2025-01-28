@@ -18,15 +18,62 @@
 
 ### 🌟 Tecnologías que manejo
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" height="40" width="40" />
-  <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" height="40" width="40" />
-  <img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png" alt="TailwindCSS" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" height="40" width="40" />
-  <img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" alt="CSS3" height="40" width="40" />
-</p>
+<style>
+  .tech-icons-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espacio entre los íconos */
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+
+  .tech-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #e0e0e0, #ffffff);
+    border-radius: 50%; /* Forma circular */
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .tech-icon img {
+    width: 50px;
+    height: 50px; /* Tamaño uniforme */
+  }
+
+  .tech-icon:hover {
+    transform: scale(1.1); /* Efecto de zoom al pasar el cursor */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  }
+</style>
+
+<div class="tech-icons-container">
+  <div class="tech-icon">
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" />
+  </div>
+  <div class="tech-icon">
+    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" />
+  </div>
+  <div class="tech-icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
+  </div>
+  <div class="tech-icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" />
+  </div>
+  <div class="tech-icon">
+    <img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png" alt="TailwindCSS" />
+  </div>
+  <div class="tech-icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" />
+  </div>
+  <div class="tech-icon">
+    <img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" alt="CSS3" />
+  </div>
+</div>
+
 
 ---
 
