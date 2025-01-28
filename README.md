@@ -18,8 +18,6 @@
 
 ### 🌟 Tecnologías que manejo
 
-
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="width: 50px; height: 50px;" />
@@ -43,8 +41,6 @@
     <img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" alt="CSS3" style="width: 50px; height: 50px;" />
   </div>
 </div>
-
-
 
 ---
 
