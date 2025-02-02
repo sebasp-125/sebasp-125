@@ -18,28 +18,16 @@
 
 ### 🌟 Tecnologías que manejo
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="width: 50px; height: 50px;" />
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" style="width: 50px; height: 50px;" />
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" style="width: 50px; height: 50px;" />
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" style="width: 50px; height: 50px;" />
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png" alt="TailwindCSS" style="width: 50px; height: 50px;" />
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" style="width: 50px; height: 50px;" />
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background: linear-gradient(135deg, #e0e0e0, #ffffff); border-radius: 50%; padding: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease, box-shadow 0.2s ease;">
-    <img src="https://w7.pngwing.com/pngs/804/171/png-transparent-web-development-cascading-style-sheets-css3-html-world-wide-web-blue-angle-web-design.png" alt="CSS3" style="width: 50px; height: 50px;" />
-  </div>
+<div align="center" dir="auto">
+    <a href="https://www.javascript.com/" rel="nofollow"> </a>
+    <a href="https://www.python.org/" rel="nofollow"> </a>
+    <a href="https://www.typescriptlang.org/" rel="nofollow"> </a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"> </a>
+    <a href="https://www.w3schools.com/css/" rel="nofollow"> </a>
+    <a href="https://www.tailwindcss.com/" rel="nofollow"> </a>
+    <a href="https://getbootstrap.com/docs/3.4/javascript/" rel="nofollow"> </a>
+    <a href="https://github.com/" rel="nofollow"> </a>
+    <a href="https://www.figma.com/" rel="nofollow"> </a>
 </div>
 
 ---
