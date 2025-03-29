@@ -8,11 +8,6 @@
 ---
 
 ### 🧑‍🎓 Acerca de mí
-- 📚 Actualmente soy estudiante en [IUMAFIS](https://iumafis.edu.co/).  
-- 💻 Desarrollo proyectos frontend con **TailwindCSS**, **DaisyUI**, **C#**, y **ASP.NET MVC**, mientras amplio mis conocimientos en otros campos de la programación.  
-- 🛠️ Actualmente estoy mejorando mis habilidades en **Agile Innova** ([Ver más](https://www.agileinnova.org/)).  
-- 🌐 ¡Siempre buscando aprender algo nuevo!  
-- 📲 Encuéntrame en [Facebook](https://www.facebook.com/SebasTryan?mibextid=ZbWKwL) o [Slack](https://slack.com/).
 
 ---
 
