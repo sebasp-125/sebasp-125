@@ -7,25 +7,26 @@
 
 ---
 
-### 🧑‍🎓 Acerca de mí
+🧑‍🎓 Acerca de mí
+<p>Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. Actualmente me encuentro estudiando Desarrollo de Software, y complemento mis estudios con proyectos personales y prácticas enfocadas en el desarrollo web, APIs REST, e integración de tecnologías modernas como ASP.NET Core, JavaScript, y bases de datos SQL. Me motiva la posibilidad de crear soluciones útiles que impacten positivamente a las personas, y siempre busco mejorar mis habilidades tanto técnicas como blandas. Creo firmemente en el trabajo en equipo, el código limpio y la curiosidad como motores del crecimiento profesional.</p>
 
----
+🌟 Tecnologías que manejo
+<p> Tengo experiencia en el desarrollo de aplicaciones utilizando diversas tecnologías, tanto del lado del cliente como del servidor. Entre ellas se encuentran: </p>
+🟨 JavaScript
 
-### 🌟 Tecnologías que manejo
+⚙️ C# / ASP.NET Core
 
-<div align="center" dir="auto">
-    <a href="https://www.javascript.com/" rel="nofollow"> </a>
-    <a href="https://www.python.org/" rel="nofollow"> </a>
-    <a href="https://www.typescriptlang.org/" rel="nofollow"> </a>
-    <a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"> </a>
-    <a href="https://www.w3schools.com/css/" rel="nofollow"> </a>
-    <a href="https://www.tailwindcss.com/" rel="nofollow"> </a>
-    <a href="https://getbootstrap.com/docs/3.4/javascript/" rel="nofollow"> </a>
-    <a href="https://github.com/" rel="nofollow"> </a>
-    <a href="https://www.figma.com/" rel="nofollow"> </a>
-</div>
+🧩 APIs REST (creación y consumo)
 
----
+🗄️ SQL (consultas, relaciones, procedimientos)
+
+🧪 Postman (testing de endpoints)
+
+🔐 JWT (autenticación y autorización)
+
+⚛️ React (interfaz dinámica con componentes)
+
+<p> Me gusta combinar estas herramientas para crear soluciones modernas, seguras y eficientes. </p>
 
 ### 📈 Mis estadísticas de GitHub
 <p align="center">
