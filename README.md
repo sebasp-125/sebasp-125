@@ -1,191 +1,211 @@
- 
-<div align="center">
+ <div align="center">
 
-# 👋 ¡Hola, mundo! Soy Juan Sebastián Montaño Pérez
-
-### Full Stack Developer · C# / .NET · Angular
-
-**Transformando ideas en soluciones de software.**
-
-Desarrollo aplicaciones web, APIs REST y soluciones empresariales, combinando buenas prácticas de arquitectura, bases de datos relacionales y tecnologías modernas.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sebasp-125&style=for-the-badge&color=0e75b6&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
-</p>
-
-[💻 GitHub](https://github.com/sebasp-125) · [🌎 Colombia](https://www.google.com/maps/search/?api=1&query=Colombia) · [🤝 Colaboremos](#-hablemos-de-tecnología)
-
-</div>
-
----
-
-## `01` · Sobre mí
-
-Soy desarrollador de software con experiencia en la construcción de aplicaciones web y sistemas empresariales, trabajando tanto en el frontend como en el backend.
-
-Mi trabajo va más allá de escribir código: me interesa comprender los procesos de negocio, diseñar soluciones mantenibles, estructurar APIs y transformar requerimientos en funcionalidades que aporten valor real.
-
-Actualmente trabajo principalmente con **C# / ASP.NET Core, Angular y SQL Server**, participando en el desarrollo de soluciones empresariales y sistemas relacionados con procesos administrativos y tributarios.
-
-### ¿Qué me define?
-
-- 🏗️ **Arquitectura:** me interesa construir software organizado, escalable y fácil de mantener.
-- ⚙️ **Backend:** desarrollo APIs REST, lógica de negocio e integración con bases de datos.
-- 🎨 **Frontend:** construyo interfaces web con Angular y exploro alternativas como React.
-- 🧠 **Aprendizaje continuo:** profundizo en los fundamentos detrás de las herramientas que utilizo.
-- 🤝 **Trabajo en equipo:** valoro la comunicación, el análisis de requerimientos y la colaboración.
-- 🚀 **Mentalidad de crecimiento:** mi objetivo es evolucionar constantemente como ingeniero de software.
-
-> No se trata solamente de hacer que el código funcione, sino de construir soluciones que tengan sentido, puedan evolucionar y sean sostenibles en el tiempo.
-
----
-
-## `02` · Mi stack tecnológico
-
-<div align="center">
-
-### Backend & arquitectura
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# y .NET" />
+<a href="https://github.com/sebasp-125">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Juan+Sebasti%C3%A1n+Monta%C3%B1o+P%C3%A9rez;Full+Stack+Software+Developer;C%23+%7C+.NET+%7C+Angular;Building+software+with+purpose." alt="Presentación animada" />
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST" />
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+**Desarrollador de software | Backend, Frontend y Arquitectura**
 
-### Frontend
+Construyo soluciones empresariales combinando lógica de negocio, diseño de APIs, interfaces web y bases de datos relacionales.
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,react,tailwind" alt="Angular, TypeScript, JavaScript, HTML, CSS, React y Tailwind CSS" />
+<br/>
 
-### Bases de datos
+<a href="https://github.com/sebasp-125?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORAR-REPOSITORIOS-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explorar repositorios" />
+</a>
+<a href="https://github.com/sebasp-125?tab=stars">
+  <img src="https://img.shields.io/badge/PROYECTOS-DESTACADOS-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Proyectos destacados" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=mssql,postgres,mysql" alt="SQL Server, PostgreSQL y MySQL" />
+<br/>
 
-### Herramientas & entorno
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode" alt="Git, GitHub, Postman, Docker, Linux y Visual Studio Code" />
+<img src="https://komarev.com/ghpvc/?username=sebasp-125&style=flat-square&color=0e75b6&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
 
 </div>
 
-### Tecnologías y prácticas que aplico
+---
 
-| Área | Tecnologías y conceptos |
+## `01` / Perfil profesional
+
+Soy desarrollador de software enfocado en la construcción de aplicaciones web, APIs REST y sistemas empresariales. Trabajo principalmente con el ecosistema .NET y Angular, participando en soluciones que requieren comprender procesos de negocio, gestionar información y mantener una arquitectura organizada.
+
+Mi enfoque no consiste únicamente en desarrollar funcionalidades. También busco comprender por qué se construyen, cómo deben comportarse y qué decisiones técnicas permiten mantenerlas a largo plazo.
+
+Actualmente combino mi experiencia profesional con formación continua y experimentación en arquitectura, automatización, infraestructura y calidad de software.
+
+```csharp
+public sealed class Developer
+{
+    public string Name => "Juan Sebastián Montaño Pérez";
+
+    public string[] Focus =>
+    [
+        "Backend Engineering",
+        "Frontend Development",
+        "Software Architecture",
+        "Enterprise Applications"
+    ];
+
+    public string Philosophy =>
+        "Write code that solves real problems.";
+}
+```
+
+---
+
+## `02` / Stack tecnológico
+
+<div align="center">
+
+### BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# y .NET" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/REST_APIs-0078D4?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/AutoMapper-1572B6?style=flat-square" alt="AutoMapper" />
+
+### FRONTEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,react" alt="Angular, TypeScript, JavaScript, HTML, CSS y React" />
+
+### DATA & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=mssql,git,github,docker,linux,postman" alt="SQL Server, Git, GitHub, Docker, Linux y Postman" />
+
+</div>
+
+### Herramientas y fundamentos
+
+| Categoría | Tecnologías y conocimientos |
 |---|---|
 | Backend | C#, .NET, ASP.NET Core, APIs REST |
 | Frontend | Angular, TypeScript, JavaScript, React |
 | Persistencia | Entity Framework Core, LINQ, SQL Server, T-SQL |
-| Arquitectura | Clean Architecture, SOLID, separación de responsabilidades |
+| Diseño | Clean Architecture, SOLID, separación de responsabilidades |
 | Patrones | Repository, Unit of Work, Service Pattern |
-| Integración | AutoMapper, JWT, consumo de APIs |
-| Herramientas | Git, GitHub, Postman, Docker y Linux |
-
-Mi enfoque es seguir fortaleciendo la calidad del código, la seguridad, la mantenibilidad y el diseño de soluciones que respondan a necesidades reales.
+| Seguridad | JWT, autenticación y autorización |
+| Integración | AutoMapper, consumo de servicios, SignalR |
+| Entorno | Git, Postman, Linux y Docker |
 
 ---
 
-## `03` · Lo que construyo
+## `03` / Ingeniería de software
+
+No concibo el desarrollo como una colección de tecnologías aisladas. Me interesa cómo se conectan las distintas capas de una aplicación y cómo las decisiones de diseño afectan su evolución.
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend & APIs</h3>
-      Desarrollo de servicios REST con .NET, lógica de negocio, acceso a datos, autenticación y autorización.
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=dotnet&logoColor=38BDF8" alt="Backend" />
+      <br/><br/>
+      Diseño de APIs, servicios, validaciones, reglas de negocio y persistencia.
     </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Aplicaciones web</h3>
-      Interfaces con Angular, componentes reutilizables, servicios, gestión del estado y comunicación con APIs.
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/FRONTEND-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Frontend" />
+      <br/><br/>
+      Componentes, servicios, interfaces modulares e integración con APIs.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ Software empresarial</h3>
-      Soluciones orientadas a procesos administrativos, tributarios y de gestión, con reglas de negocio y flujos de trabajo.
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/ARCHITECTURE-0D1117?style=for-the-badge&logo=buffer&logoColor=38BDF8" alt="Arquitectura" />
+      <br/><br/>
+      Responsabilidades bien definidas, abstracciones y código mantenible.
     </td>
-    <td width="50%" valign="top">
-      <h3>🧱 Arquitectura de software</h3>
-      Organización por responsabilidades, patrones de diseño y estructuras que facilitan la evolución del sistema.
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/DATA-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="Datos" />
+      <br/><br/>
+      Modelado relacional, consultas SQL, relaciones y procedimientos almacenados.
     </td>
   </tr>
 </table>
 
 </div>
 
-Me interesa especialmente el desarrollo de sistemas que integren procesos complejos, datos y reglas de negocio en soluciones claras, confiables y mantenibles.
+---
+
+## `04` / Experiencia aplicada
+
+Mi experiencia se orienta al desarrollo de software empresarial y gubernamental, donde las aplicaciones deben responder a procesos reales y reglas de negocio específicas.
+
+**Áreas en las que he trabajado:**
+
+- Sistemas de gestión y procesos administrativos.
+- Aplicaciones relacionadas con procesos tributarios y de fiscalización.
+- Desarrollo de APIs REST e integración entre frontend y backend.
+- Persistencia de datos y operaciones con SQL Server.
+- Implementación de funcionalidades a partir de requerimientos y revisión con usuarios.
+
+Me interesa especialmente diseñar sistemas que sean comprensibles para otros desarrolladores, fáciles de mantener y preparados para evolucionar sin convertir cada cambio en una reescritura.
 
 ---
 
-## `04` · Mis estadísticas de GitHub
+## `05` / GitHub analytics
 
 <div align="center">
 
 <a href="https://github.com/sebasp-125">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sebasp-125&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sebasp-125&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Estadísticas de GitHub" />
 </a>
 
 <a href="https://github.com/sebasp-125">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasp-125&layout=compact&hide_border=true&theme=tokyonight" alt="Lenguajes más utilizados" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasp-125&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Lenguajes más utilizados" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sebasp-125&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
+<img src="https://streak-stats.demolab.com?user=sebasp-125&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Actividad y racha de GitHub" />
 
 </div>
 
 ---
 
-## `05` · Proyectos y experimentación
+## `06` / En evolución constante
 
-Me gusta llevar los conocimientos a la práctica. Estos son algunos de los tipos de proyectos en los que trabajo o sobre los que exploro nuevas ideas:
+Actualmente estoy profundizando en áreas que considero fundamentales para dar el siguiente salto como desarrollador:
 
-- **Sistemas empresariales:** aplicaciones orientadas a procesos reales y reglas de negocio.
-- **APIs con .NET:** servicios estructurados, acceso a datos y separación de responsabilidades.
-- **Aplicaciones con Angular:** interfaces conectadas a servicios backend y componentes reutilizables.
-- **Proyectos con React:** exploración de alternativas para construir experiencias web modernas.
-- **Infraestructura y despliegue:** experimentación con Linux, Docker, servidores y publicación de aplicaciones.
+- Diseño avanzado de APIs con .NET.
+- Programación asíncrona, cancelación y gestión de recursos.
+- Arquitectura limpia y principios de diseño.
+- Pruebas automatizadas y calidad de software.
+- Despliegue de aplicaciones e infraestructura con Linux y contenedores.
+- Mejores prácticas para construir sistemas escalables y mantenibles.
 
-🔎 Puedes explorar mis repositorios y ver el código, la evolución de los proyectos y las tecnologías utilizadas:
-
-<div align="center">
-
-[![Ver mis repositorios](https://img.shields.io/badge/EXPLORAR_MIS_REPOSITORIOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebasp-125?tab=repositories)
-
-</div>
+Mi objetivo es desarrollar un criterio técnico sólido: entender las herramientas, conocer sus límites y saber elegir la solución adecuada para cada problema.
 
 ---
 
-## `06` · Actualmente estoy creciendo en...
+## `07` / Conectemos
 
-- Profundizando en C# y .NET, incluyendo asincronía, cancelación de operaciones y diseño de APIs.
-- Fortaleciendo mis conocimientos de arquitectura limpia, SOLID y patrones de diseño.
-- Mejorando mis prácticas de pruebas automatizadas y calidad de software.
-- Explorando despliegues, contenedores y administración de servidores Linux.
-- Construyendo una base técnica cada vez más sólida para diseñar soluciones de mayor complejidad.
-
-Creo que un buen desarrollador no es quien conoce más herramientas, sino quien sabe cuándo utilizarlas, comprende sus fundamentos y puede tomar buenas decisiones técnicas.
-
----
-
-## `07` · Hablemos de tecnología
-
-Estoy abierto a conectar con otros desarrolladores, compartir conocimientos, colaborar en proyectos interesantes y conocer nuevas oportunidades profesionales.
-
-Si tienes una idea, un proyecto o simplemente quieres hablar de desarrollo de software, ¡conversemos!
+Estoy abierto a compartir conocimientos, colaborar en proyectos y conectar con personas que disfrutan construyendo software.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sebasp--125-181717?style=for-the-badge&logo=github)](https://github.com/sebasp-125)
-[![Facebook](https://img.shields.io/badge/Facebook-Conectemos-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sebastryan?mibextid=zbwkwl)
-[![Discord](https://img.shields.io/badge/Discord-Conversemos-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sebastiann7565)
+<a href="https://github.com/sebasp-125">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.facebook.com/sebastryan?mibextid=zbwkwl">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://discord.gg/sebastiann7565">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 
-<br/>
+<br/><br/>
 
-### 💻 Código con propósito. Aprendizaje sin límites.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D91,100:38BDF8&height=100&section=footer" width="100%" alt="Cierre visual del perfil" />
 
-*Gracias por visitar mi perfil. ¡Nos vemos en el próximo commit!* 🚀
+**Diseñar. Construir. Aprender. Evolucionar.**
+
+<sub>Gracias por explorar mi trabajo.</sub>
 
 </div>
